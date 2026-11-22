@@ -17,3 +17,5 @@ img = qr.make_image(fill_color="black", back_color="red")
 # Save and show
 img.save("Colour_QRcode.png")
 img.show()
+
+# new line added to the code
