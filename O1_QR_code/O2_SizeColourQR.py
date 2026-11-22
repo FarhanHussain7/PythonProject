@@ -19,3 +19,4 @@ img.save("Colour_QRcode.png")
 img.show()
 
 # new line added to the code
+# Hving trouble with the code? Please check the documentation for more details: https://pypi.org/project/qrcode/
